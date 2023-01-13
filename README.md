@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Full Stack Developer Sagar Rana</h1>
+<h1 align="center">Hi 👋, I'm Full Stack Developer</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img src="https://www.careerguide.com/career/wp-content/uploads/2021/02/c8a62c3f14fdf027de13e1755ddd0ec6.gif"alt="error in loading image"style="heigth:300px;width:800px;">
 - 🌱 I’m currently learning **Full Stack Developer**
