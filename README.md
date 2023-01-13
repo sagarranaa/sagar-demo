@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rana-sagar-a76596135/](https://www.linkedin.com/in/rana-sagar-a76596135/)
 
-- 💬 Ask me about **React js,node js ,mongodb,mysql,javascript,core java**
+- 💬 Ask me about **MERN STACK**
 
 - 📫 How to reach me **sgamilcom77@gmail.com**
 
