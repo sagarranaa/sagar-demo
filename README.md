@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Full Stack Developer</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+ &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
 <img src="https://www.careerguide.com/career/wp-content/uploads/2021/02/c8a62c3f14fdf027de13e1755ddd0ec6.gif"alt="error in loading image"width="400">
+
 - 🌱 I’m currently learning **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sagar-demo](https://github.com/sagar-demo)
@@ -31,7 +33,8 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <div>
 <img src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"alt="error in loading page"width="400">
-<img src="https://redblink.com/wp-content/uploads/2019/07/05.gif"alt="error in loading page"width="300">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://redblink.com/wp-content/uploads/2019/07/05.gif"alt="error in loading page"width="336">
   </div>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sagar rana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sagar rana" /></a><a href="https://ko-fi.com/sagar rana"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sagar rana" /></a></p><br><br>
