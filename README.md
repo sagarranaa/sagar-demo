@@ -23,7 +23,7 @@
 <a href="https://www.hackerrank.com/saga rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saga rana" height="30" width="40" /></a>
 <a href="https://leetcode.com/sgamilcom77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagar rana" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/sagar rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sagar rana" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sagar rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sagar rana" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sgamilcom77/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sagar rana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
