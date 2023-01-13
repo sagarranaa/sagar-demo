@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
-<img src="https://www.careerguide.com/career/wp-content/uploads/2021/02/c8a62c3f14fdf027de13e1755ddd0ec6.gif"alt="error in loading image"width="400">
+<img src="https://www.careerguide.com/career/wp-content/uploads/2021/02/c8a62c3f14fdf027de13e1755ddd0ec6.gif" alt="error in loading image" width="400">
 
 - 🌱 I’m currently learning **Full Stack Developer**
 
