@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sagar-demo](https://github.com/sagar-demo)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/rana-sagar-a76596135/](https://www.linkedin.com/in/rana-sagar-a76596135/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/rana-sagar-a76596135/](https://www.linkedin.com/in/sagar12/)
 
 - 💬 Ask me about **MERN STACK**
 
